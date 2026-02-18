@@ -71,7 +71,6 @@ public class Libro {
     }
     //.
 
-    //.
     /**
      * Devuelve el libro.
      */

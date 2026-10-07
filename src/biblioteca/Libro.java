@@ -14,7 +14,7 @@ public class Libro {
     private boolean disponible;
 
     /**
-     * Constructor del libro.
+     * dConstructor del libro.
      *
      * @param isbn Codigo ISBN del libro
      * @param titulo Titulo del libro
